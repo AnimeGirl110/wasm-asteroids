@@ -1,0 +1,1 @@
+cd onedrive/documents/projects/webassemblyprojects/wasm-asteroids
